@@ -6,7 +6,7 @@
   
 ## 👨‍💻 À PROPOS DE MOI 👨‍💻:
 - **Formation** : 2ᵉ année à l'INSA Toulouse (Institut National des Sciences Appliquées de Toulouse) - Cycle d'ingénieur
-- **Intérêt**: Je veux devenir un ingénieur en IA
+- **Intérêt**: Je veux devenir un ingénieur en Informatique (particulièrement intéressé par l'Intelligence Artificielle)
   
 ## 👨‍💻 VOUS POUVEZ ME TROUVER VIA 👨‍💻:
 
