@@ -5,8 +5,7 @@
 - Date de naissance: 23/06/2004
   
 ## 👨‍💻 À PROPOS DE MOI 👨‍💻:
-- **Formation** : 3ᵉ année à l'INSA Toulouse (Institut National des Sciences Appliquées de Toulouse) - Cycle d'ingénieur
-- **Intérêt**: Je veux devenir un ingénieur en Informatique (particulièrement intéressé par l'Intelligence Artificielle)
+- **Formation** : 3ᵉ année à l'INSA Toulouse (Institut National des Sciences Appliquées de Toulouse) - Domaine: ModIA(Modélisation et Intelligence Artificielle)
   
 ## 👨‍💻 VOUS POUVEZ ME TROUVER VIA 👨‍💻:
 
