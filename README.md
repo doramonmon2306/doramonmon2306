@@ -1,11 +1,11 @@
-<h1 align="center"> BIENVENUE SUR MA PAGE GITHUB👋👋👋</h1>
+<h1 align="center"> BIENVENUE SUR MA PAGE GITHUB</h1>
 
 ## 👨‍💻 INFORMATION GÉNÉRALE 👨‍💻:
 - Nom et prénom: LE Thu Trang
 - Date de naissance: 23/06/2004
   
 ## 👨‍💻 À PROPOS DE MOI 👨‍💻:
-- **Formation** : 3ᵉ année à l'INSA Toulouse (Institut National des Sciences Appliquées de Toulouse) - Domaine: ModIA(Modélisation et Intelligence Artificielle)
+- **Formation** : 3ᵉ année à l'INSA Toulouse (Institut National des Sciences Appliquées de Toulouse) - Domaine: ModIA ( Modélisation et Intelligence Artificielle )
   
 ## 👨‍💻 VOUS POUVEZ ME TROUVER VIA 👨‍💻:
 
