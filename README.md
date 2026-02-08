@@ -18,10 +18,6 @@
 
 ---
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=doramonmon2306&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="vuthanhtung" />
-
-<table>
-<tr>
 
 <h1 align="center">⚡⚡TECHSTACK⚡⚡</h1>
 
